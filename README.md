@@ -3,8 +3,7 @@ My Profile Github
 
 <img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
 
-# 🤖 Hey! Welcome to YT_monster <img align="right" src="https://komarev.com/ghpvc/?username=b4dcat404&style=flat-square&color=blueviolet">
-
+# 🤖 Hey! Welcome to YT_monster
 ### Languages and Tools 🤖› 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
