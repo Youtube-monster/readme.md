@@ -3,7 +3,7 @@ My Profile Github
 
 <img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
 
-# 🤖 Hey! YT_monster
+# 🤖 youtube_monster
 ### Languages and Tools 🤖› 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -28,5 +28,9 @@ My Profile Github
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
+### Highcontrast
 
+[![iuricode](https://github-readme-stats.vercel.app/api?username=youtube-monster&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 ------
