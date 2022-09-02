@@ -3,9 +3,9 @@ My Profile Github
 
 <img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
 
-# ðŸ–– Hey! Welcome to YT_monster <img align="right" src="https://komarev.com/ghpvc/?username=b4dcat404&style=flat-square&color=blueviolet">
+# 🤖 –– Hey! Welcome to YT_monster <img align="right" src="https://komarev.com/ghpvc/?username=b4dcat404&style=flat-square&color=blueviolet">
 
-### Languages and Tools ðŸ› 
+### Languages and Tools 🤖› 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
